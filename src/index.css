@@ -7,6 +7,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
+@import "react-alice-carousel/lib/alice-carousel.css";
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
